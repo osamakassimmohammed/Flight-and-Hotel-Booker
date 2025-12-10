@@ -1,0 +1,5 @@
+{
+  "name": "Amadeus Flight Booker",
+  "description": "A web application to search, select, and book flights, simulating the Amadeus flight API workflow with a modern user interface.",
+  "requestFramePermissions": []
+}
